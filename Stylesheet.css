@@ -1,0 +1,33 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+  height: 2px;
+}
+
+h1{
+  text-align: center;
+  font-size: 4rem;
+}
+
+h2{
+  text-align: center;
+}
+
+h2:hover{
+  background-color: gold;
+}
+img{
+  height: 400px;
+  width: 500px;;
+  position: relative;
+  left:400px;;
+
+}
